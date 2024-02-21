@@ -1,4 +1,7 @@
 {
     "name": "Arch Linux",
-    "image": "archlinux"
+    "image": "archlinux",
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+    }
 }
