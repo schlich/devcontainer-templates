@@ -1,0 +1,7 @@
+{
+    "name": "Cypress",
+    "image": "cypress/included",
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+    }
+}
